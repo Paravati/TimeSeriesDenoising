@@ -165,7 +165,7 @@ plt.show()
 fwhm = 25  # in points
 
 # normalized time vector in ms
-k = 100;
+k = 100
 gtime = np.arange(-k, k)
 
 # create Gaussian window
